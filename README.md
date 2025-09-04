@@ -1,17 +1,18 @@
-# NeedForHeat REDUCEDHEATCARB 2023 Dataset 
+# NeedForHeat REDUCEDHEATCARB 2023 Dataset<!-- omit in toc -->
 
 Dataset containing anonymized energy and temperature data from residential buildings in the the Netherlands, collected for the [REDUCEDHEATCARB project](https://edu.nl/gutuc).
 
 *The dataset is currently in review to ensure it meet our standards for anonymization. We are currently in the process of describing metadata, so you know what you may expect.*
 
-## Table of contents
-* [General info](#general-info)
-* [Subject Recruitment](#recruitment)
-* [Inclusion and exclusion criteria](#inclusion-and-exclusion-criteria)
-* [Data](#data) 
-* [Status](#status)
-* [License](#license)
-* [Credits](#credits)
+## Table of Contents<!-- omit in toc -->
+- [General info](#general-info)
+- [Recruitment](#recruitment)
+- [Inclusion and exclusion criteria](#inclusion-and-exclusion-criteria)
+- [Data management](#data-management)
+- [Data](#data)
+- [Status](#status)
+- [License](#license)
+- [Credits](#credits)
 
 ## General info
 
@@ -25,7 +26,7 @@ Subjects were recruited via [Remeha](https://www.remeha.nl/) via an e-mail invit
 
 ## Inclusion and exclusion criteria
 
-### Inclusion criteria
+### Inclusion criteria<!-- omit in toc -->
 
 Participants must:
 
@@ -38,7 +39,7 @@ Participants must:
 
 The first criterion was verified by Remeha before sending the recruitment mail.
 
-### Exclusion criteria:
+### Exclusion criteria<!-- omit in toc -->
 
 Participants must not:
 
@@ -61,31 +62,31 @@ We documented our [Data Management Plan](https://www.energietransitiewindesheim.
 
 In the sections below, the data pre-processing and data formats used in the data files will be described.
 
-### Subjects 
+### Subjects<!-- omit in toc -->
 
 TODO: describe
 
-### Measurement Source Categories and Source Types
+### Measurement Source Categories and Source Types<!-- omit in toc -->
 
 In this section, we will describe the measurement source categories and typesfrom which we collected one or more properties, i.e. monitored time-series data.
 
-### Date and time information
+### Date and time information<!-- omit in toc -->
 
 TODO: describe
 
-### Raw measurements 
+### Raw measurements<!-- omit in toc --> 
 
 TODO: describe
 
-### Raw propertes 
+### Raw properties<!-- omit in toc -->
 
 TODO: describe
 
-### Properties 
+### Properties<!-- omit in toc -->
 
 TODO: describe
 
-### Preprocessed data 
+### Preprocessed data<!-- omit in toc -->
 
 TODO: describe
 
