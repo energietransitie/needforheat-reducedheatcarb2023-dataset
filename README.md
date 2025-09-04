@@ -21,36 +21,41 @@ Initially, this repository will contain a description what kind of data you may 
 
 ## Recruitment 
 
-Subjects were recruited via [Remeha](https://www.remeha.nl/) via an e-mail invite to fill out this [online recruitment survey](./data_management/recruitment/REDUCEDHEATCARB_intake.pdf). This recruitment mail was sent to about 3350 customers with a Remeha gas-firec boiler and an eTwist connected thermostat in the Netherlands, in three waves, from November 2023 until February 2024.
+Subjects were recruited via [Remeha](https://www.remeha.nl/) via an e-mail invite to fill out this [online recruitment survey](https://www.energietransitiewindesheim.nl/needforheat-reducedheatcarb2023-dataset/data_management/recruitment/REDUCEDHEATCARB_intake.pdf). This recruitment mail was sent to about 3350 customers with a Remeha gas-firec boiler and an eTwist connected thermostat in the Netherlands, in three waves, from November 2023 until February 2024.
 
 ## Inclusion and exclusion criteria
 
-### Inclusion criteria:
+### Inclusion criteria
 
-* be a Remeha customer with gas fired boiler and an e-Twist connected thermostat;
-* provide informed consent;
-* live in a single-family dwelling;
-* live in a home with a smart meter;
-* live in a home has internet & Wi-Fi;
-* all occupants have a smartphone and are prepared to leave Bluetooth on.
+Participants must:
 
-The first criterion was checked by Remeha, before sending the recruitment mail.
+* Be a Remeha customer with a gas fired boiler and an eTwist connected thermostat.
+* Provide informed consent.
+* Live in a single-family dwelling.
+* Have a smart meter installed at home.
+* Have internet and Wi-Fi at home.
+* Ensure all occupants have a smartphone and are willing to keep Bluetooth enabled.
+
+The first criterion was verified by Remeha before sending the recruitment mail.
 
 ### Exclusion criteria:
 
-* often or always charge an EV at home
-* often or always use heating sources other than a gas boiler (like wood pellets)
-* have kids at home younger than 12.
-* live in a tiny home (A<sub>g</sub> < 50 m<sup>2</sup>)
-* live in a huge home (A<sub>g</sub> > 250 mm<sup>2</sup>)
+Participants must not:
 
-The recruitment survey included a check on all of the above inclusion and exclusion criteria, except for the final two. In total, 171 customers responded; 45 satisfied all of the inclusion and exclusion criteria.
+* Frequently or always charge an electric vehicle (EV) at home.
+* Frequently or always use heating sources other than a gas boiler (like wood pellets)
+* Have kids at home younger than 12 living at home.
+* Live in a tiny home (A<sub>g</sub> < 50 m<sup>2</sup>)
+* Live in a huge home (A<sub>g</sub> > 250 mm<sup>2</sup>)
+
+The recruitment survey assessed all inclusion and exclusion criteria except the last two. Of the 171 respondents 45 met all criteria. A subsequent manual check via [Kadaster's Basisregistratie Adressen en Gebouwen (BAG)](https://bagviewer.kadaster.nl/) confirmed that all 45 also satisfied the final two criteria.
+
 
 ## Data management
 
-We documented our [Data Management Plan](./data_management/REDUCEDHEATCARB_data_collection_winter_2023-2024.pdf) online. The privacy policy (in Dutch and English) was available online as well, both in the recruitment survey and in the NeedForHeat GearUp app, in two languages and in a layered structure: 
-* Dutch: [short summary](./data_management/privacy/nl-NL/Privacyverklaring%20NeedForHeat.html), [summary](./data_management/privacy-summary/nl-NL/Privacyverklaring%20NeedForHeat.html) and [full version](./data_management/privacy-full/nl-NL/Privacyverklaring%20NeedForHeat.html);
-* English: [short summary](./data_management/privacy/en-US/NeedForHeat%20Privacy%20Policy.html), [summary](./data_management/privacy-summary/en-US/Privacyverklaring%20NeedForHeat.html) and [full version](./data_management/privacy-full/en-US/Privacyverklaring%20NeedForHeat.html);.
+We documented our [Data Management Plan](https://www.energietransitiewindesheim.nl/needforheat-reducedheatcarb2023-dataset/data_management/REDUCEDHEATCARB_data_collection_winter_2023-2024.pdf) online. The privacy policy (in Dutch and English) was available online as well, both in the recruitment survey and in the NeedForHeat GearUp app, in two languages and in a layered structure: 
+* Dutch: [short summary](https://www.energietransitiewindesheim.nl/needforheat-reducedheatcarb2023-dataset/data_management/privacy/nl-NL/Privacyverklaring%20NeedForHeat.html), [summary](https://www.energietransitiewindesheim.nl/needforheat-reducedheatcarb2023-dataset/data_management/privacy-summary/nl-NL/Privacyverklaring%20NeedForHeat.html) and [full version](https://www.energietransitiewindesheim.nl/needforheat-reducedheatcarb2023-dataset/data_management/privacy-full/nl-NL/Privacyverklaring%20NeedForHeat.html);
+* English: [short summary](./data_management/privacy/en-US/NeedForHeat%20Privacy%20Policy.html), [summary](https://www.energietransitiewindesheim.nl/needforheat-reducedheatcarb2023-dataset/data_management/privacy-summary/en-US/NeedForHeat%20Privacy%20Policy.html) and [full version](https://www.energietransitiewindesheim.nl/needforheat-reducedheatcarb2023-dataset/data_management/privacy-full/en-US/NeedForHeat%20Privacy%20Statement.html).
 
 ## Data
 
