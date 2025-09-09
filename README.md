@@ -99,7 +99,7 @@ This data is made available under the [CC BY 4.0](./LICENSE.md) by the [Research
 ## Credits
 
 Data collection was a joint effort of:
-* Henri ter Hofte · [@henriterhofte](https://github.com/henriterhofte) · Twitter [@HeNRGi](https://twitter.com/HeNRGi)
+* Henri ter Hofte · [@henriterhofte](https://github.com/henriterhofte)
 * Nick van Ravenzwaaij · [@n-vr](https://github.com/n-vr)
 * <contributor name 3> · [@Github_handle_3](https://github.com/<github_handle_3>) · Twitter [@Twitter_handle_3](https://twitter.com/<twitter_handle_3>)
 * etc. 
